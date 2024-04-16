@@ -1,0 +1,26 @@
+LeetCode Top Interview 150 Questions
+This repository contains solutions to the LeetCode Top Interview 150 Questions, organized by topics.
+
+Introduction
+Welcome to the LeetCode Top Interview 150 Questions repository! This repository aims to provide solutions to the top 150 interview questions on LeetCode, categorized by topics. These questions are commonly asked in technical interviews, and having a good understanding of them can greatly help you prepare.
+
+Topics
+The questions are grouped into the following topics:
+
+Arrays
+Strings
+Linked Lists
+Trees
+Sorting and Searching
+Dynamic Programming
+Design
+Others
+Each topic directory contains solutions to the questions related to that topic. Feel free to explore the topics and solutions!
+
+Contributing
+If you'd like to contribute to this repository by adding more solutions or improving existing ones, feel free to fork the repository and submit a pull request.
+
+About
+This repository is maintained by Varshini C K.If you have any questions or suggestions, feel free to reach out.
+Contact : ckvarshini01@gmail.com
+
